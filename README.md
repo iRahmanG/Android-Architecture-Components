@@ -33,17 +33,6 @@ Each folder corresponds to a lecture or concept from the playlist and contains a
 
 ---
 
-## ✅ Progress Tracker
-
-| Episode | Topic                         | Status     |
-|---------|-------------------------------|------------|
-| 1       | Introduction to MVVM          | ✅ Done     |
-| 2       | ViewModel Basics              | ✅ Done     |
-| 3       | LiveData Integration          | ⏳ Ongoing  |
-| 4       | Room DB Setup                 | 🔜 Planned  |
-| 5       | Repository Pattern            | 🔜 Planned  |
-| ...     | More coming soon              |            |
-
 ---
 
 ## 🛠️ Requirements
