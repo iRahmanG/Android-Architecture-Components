@@ -31,14 +31,16 @@ The purpose of this repo is to track my progress and consolidate the concepts co
 
 Each folder corresponds to a lecture or concept from the playlist and contains a working Android Studio project with code and configurations.
 
--**Android Architecture Components**/
---│
---├── Project_LifeCycle/ # Code related to Activity Lifecycle
---├── Project_ViewModel/ # Code implementing ViewModel
---├── Project_LiveData/ # Code demonstrating LiveData
---├── Project_RoomDB/ # Room database implementation
---├── Project_MVVM/ # A full MVVM sample app
---└── README.md # You're here :)
+## 📁 Directory Structure
+
+- `Android Architecture Components/`  
+  - `Project_LifeCycle/` – Demonstrates Activity Lifecycle concepts  
+  - `Project_ViewModel/` – ViewModel implementation project  
+  - `Project_LiveData/` – LiveData usage example  
+  - `Project_RoomDB/` – Room Database integration  
+  - `Project_MVVM/` – Full MVVM pattern sample app  
+  - `README.md` – Project overview and documentation  
+
 
 ---
 
