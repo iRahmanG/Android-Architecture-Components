@@ -48,7 +48,7 @@ Each folder corresponds to a lecture or concept from the playlist and contains a
 ## 🛠️ Requirements
 
 - Android Studio Giraffe or later
-- Java (Recommended for this playlist)
+- Java or Kotlin (Recommended for this playlist)
 - Basic Android development knowledge
 
 ---
