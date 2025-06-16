@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LiveData_Example.iml" filepath="$PROJECT_DIR$/.idea/LiveData_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42.iml" filepath="$PROJECT_DIR$/.gradle/8.9/dependencies-accessors/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42/d4b6d22156583c8b7b55c4fd04fbb4c58c762f42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.gradle/8.9/dependencies-accessors/fd5fca6ab795d44c8f6a140eb1cf46330c4edffe/fd5fca6ab795d44c8f6a140eb1cf46330c4edffe.iml" filepath="$PROJECT_DIR$/.gradle/8.9/dependencies-accessors/fd5fca6ab795d44c8f6a140eb1cf46330c4edffe/fd5fca6ab795d44c8f6a140eb1cf46330c4edffe.iml" />
+    </modules>
+  </component>
+</project>
