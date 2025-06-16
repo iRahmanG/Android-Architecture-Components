@@ -4,6 +4,11 @@ Welcome to my GitHub repo where I’m following a structured **Android Developme
 
 ---
 
+## Note
+The projects which have made during my learning while commiting into this repo they got corrupted and so in this repo the projucts does not have source code.
+
+---
+
 ## 🚀 Projects Included
 
 | Project Folder            | Description |
